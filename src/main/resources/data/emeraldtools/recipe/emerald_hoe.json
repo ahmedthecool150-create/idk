@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "X": "minecraft:emerald",
+    "#": "minecraft:stick"
+  },
+  "pattern": ["XX", " #", " #"],
+  "result": {
+    "id": "emeraldtools:emerald_hoe",
+    "count": 1
+  }
+}
